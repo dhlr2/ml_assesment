@@ -1,0 +1,1 @@
+This is a university project where I created a program in Python to predict the body mass of a penguin using the dataset. It takes other features to produce a prediction including bill length, flipper length etc..
